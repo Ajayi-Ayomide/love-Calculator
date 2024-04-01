@@ -4,12 +4,12 @@
     box-sizing: border-box;
 }
 
-/* body{
-  background-image: url(image/pexels-karolina-grabowska-4041323.jpg);
-  height: 100vh;
+body{
+  background-image: url(image/Dark\ love\ \(2\).jpg);
+  height: 70vh;
   background-size: cover;
   background-repeat: no-repeat;
-} */
+}
 .form-container {
     width: 400px;
     background: linear-gradient(rgba(0, 0, 0, 0.567),rgba(0, 0, 0, 0.282));
