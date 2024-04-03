@@ -81,7 +81,7 @@ body{
     border-color: #e81cff;
   }
   
-  /* .form-container .form-group textarea:focus {
+  .form-container .form-group textarea:focus {
     outline: none;
     border-color: #e81cff;
   }
@@ -131,7 +131,7 @@ body{
   word-spacing: -2px;
 }
 
-@keyframes movingBorders {
+/* @keyframes movingBorders {
   0% {
     border-color: #fce4e4;
   }
