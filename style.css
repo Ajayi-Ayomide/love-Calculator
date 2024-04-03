@@ -25,7 +25,7 @@ body{
     box-sizing: border-box;
     border-radius: 16px;
   }
-/*   
+  
   .form-container button:active {
     scale: 0.95;
   }
@@ -81,7 +81,7 @@ body{
     border-color: #e81cff;
   }
   
-  .form-container .form-group textarea:focus {
+  /* .form-container .form-group textarea:focus {
     outline: none;
     border-color: #e81cff;
   }
