@@ -131,7 +131,7 @@ body{
   word-spacing: -2px;
 }
 
-/* @keyframes movingBorders {
+@keyframes movingBorders {
   0% {
     border-color: #fce4e4;
   }
@@ -196,4 +196,4 @@ button:hover .filled {
 }
   
   
-   */
+  
